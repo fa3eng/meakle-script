@@ -1,0 +1,4 @@
+cd /Users/meakle/code/meakle/meakle-roadmap && echo "路径正确"
+git add . && echo "标记所有变动文件"
+git commit -v  && echo "提交所有变动文件"
+git push && echo "上传"
