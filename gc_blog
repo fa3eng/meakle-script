@@ -1,0 +1,4 @@
+cd /Users/meakle/code/meakle/meakle-roadmap
+
+git add .
+git commit -v
